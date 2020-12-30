@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="20" role="img"
+    aria-label="Contact Me: ">
+    <title>Contact Me: </title>
+    <style>
+        a:hover #llink {
+            fill: url(#b);
+            stroke: #ccc
+        }
+
+        a:hover #rlink {
+            fill: #4183c4
+        }
+
+    </style>
+    <linearGradient id="a" x2="0" y2="100%">
+        <stop offset="0" stop-color="#fcfcfc" stop-opacity="0" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#ccc" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <g stroke="#d5d5d5">
+        <rect stroke="none" fill="#00000000" x="0.5" y="0.5" width="82" height="19" rx="2" />
+    </g>
+    <image x="5" y="3" width="14" height="14"
+        xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMTY4REUyIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWFpbC5SdSBpY29uPC90aXRsZT48cGF0aCBkPSJNMTEuNTg1IDUuMjY3YzEuODM0IDAgMy41NTguODExIDQuODI0IDIuMDh2LjAwNGMwLS42MDkuNDEtMS4wNjguOTc5LTEuMDY4aC4xNDVjLjg5MSAwIDEuMDczLjg0MiAxLjA3MyAxLjEwOWwuMDA1IDkuNDc1Yy0uMDYzLjYyMS42NC45NDEgMS4wMjkuNTQzIDEuNTIxLTEuNTY0IDMuMzQyLTguMDM4LS45NDYtMTEuNzktMy45OTYtMy40OTctOS4zNTctMi45MjEtMTIuMjA5LS45NTUtMy4wMzEgMi4wOTEtNC45NzEgNi43MTgtMy4wODYgMTEuMDY0IDIuMDU0IDQuNzQgNy45MzEgNi4xNTIgMTEuNDI0IDQuNzQ0IDEuNzY5LS43MTUgMi41ODYgMS42NzYuNzQ5IDIuNDU3LTIuNzc2IDEuMTg0LTEwLjUwMiAxLjA2NC0xNC4xMS01LjE4OEMtLjk3NyAxMy41MjEtLjg0NyA2LjA5MyA1LjYyIDIuMjQ1IDEwLjU2Ny0uNjk4IDE3LjA5LjExNyAyMS4wMjIgNC4yMjRjNC4xMTEgNC4yOTQgMy44NzIgMTIuMzM0LS4xMzkgMTUuNDYxLTEuODE2IDEuNDItNC41MTYuMDM3LTQuNDk4LTIuMDMxbC0uMDE5LS42NzhjLTEuMjY1IDEuMjU2LTIuOTQ4IDEuOTg4LTQuNzgyIDEuOTg4LTMuNjI1IDAtNi44MTMtMy4xODktNi44MTMtNi44MTIgMC0zLjY1OSAzLjE4OS02Ljg4NSA2LjgxNC02Ljg4NXptNC41NjEgNi42MjNjLS4xMzctMi42NTMtMi4xMDYtNC4yNDktNC40ODQtNC4yNDloLS4wOWMtMi43NDUgMC00LjI2OCAyLjE1OS00LjI2OCA0LjYxIDAgMi43NDcgMS44NDIgNC40ODEgNC4yNTYgNC40ODEgMi42OTMgMCA0LjQ2NC0xLjk3MyA0LjU5Mi00LjMwNmwtLjAwNi0uNTM2eiIvPjwvc3ZnPg==" />
+    <g aria-hidden="true" fill="#333" text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif"
+        text-rendering="geometricPrecision" font-weight="700" font-size="110px" line-height="14px">
+        <rect id="llink" stroke="#d5d5d5" fill="url(#a)" x=".5" y=".5" width="82" height="19" rx="2" /><text
+            aria-hidden="true" x="495" y="150" fill="#fff" transform="scale(.1)" textLength="550">Contact Me</text><text
+            x="495" y="140" transform="scale(.1)" textLength="550">Contact Me</text></g>
+</svg>

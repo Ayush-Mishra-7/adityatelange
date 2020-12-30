@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="20" role="img"
+    aria-label="HackerRank: ">
+    <title>HackerRank: </title>
+    <style>
+        a:hover #llink {
+            fill: url(#b);
+            stroke: #ccc
+        }
+
+        a:hover #rlink {
+            fill: #4183c4
+        }
+
+    </style>
+    <linearGradient id="a" x2="0" y2="100%">
+        <stop offset="0" stop-color="#fcfcfc" stop-opacity="0" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#ccc" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <g stroke="#d5d5d5">
+        <rect stroke="none" fill="#00000000" x="0.5" y="0.5" width="92" height="19" rx="2" />
+    </g>
+    <image x="5" y="3" width="14" height="14"
+        xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMkVDODY2IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SGFja2VyUmFuayBpY29uPC90aXRsZT48cGF0aCBkPSJNMTIgMGMxLjI4NSAwIDkuNzUgNC44ODYgMTAuMzkyIDYgLjY0NSAxLjExNS42NDUgMTAuODg1IDAgMTJTMTMuMjg3IDI0IDEyIDI0cy05Ljc1LTQuODg1LTEwLjM5NS02Yy0uNjQxLTEuMTE1LS42NDEtMTAuODg1IDAtMTJDMi4yNSA0Ljg4NiAxMC43MTUgMCAxMiAwem0yLjI5NSA2Ljc5OWMtLjE0MSAwLS4yNTguMTE1LS4yNTguMjU4djMuODc1SDkuOTYzVjYuOTA4aC43MDFjLjE0MSAwIC4yNTQtLjExNS4yNTQtLjI1OCAwLS4wOTQtLjA0OS0uMTc2LS4xMjMtLjIyMUw5LjIyMyA0LjkyYy0uMDQ5LS4wNjMtLjE0MS0uMTA5LS4yMjYtLjEwOS0uMDg0IDAtLjE2LjA0NS0uMjA3LjEwN0w3LjExIDYuNDNjLS4wNzIuMDQ1LS4xMi4xMjYtLjEyLjIxOCAwIC4xNDMuMTEzLjI1OC4yNTUuMjU4aC43MDRsLjAwOCAxMC4wMzVjMCAuMTQ1LjExMS4yNTguMjU0LjI1OGgxLjQ5MmMuMTQyIDAgLjI1OS0uMTE1LjI1OS0uMjU2di00LjAwNGg0LjA3M3Y0LjE1MmgtLjY5OWMtLjE0MyAwLS4yNTYuMTE1LS4yNTYuMjU4IDAgLjA5Mi4wNDguMTc0LjExOS4yMTlsMS41NzkgMS41MWMuMDQ0LjA2MS4xNDEuMTA5LjIyNS4xMDkuMDg1IDAgLjE1OS0uMDQ1LjIwOC0uMTA5bDEuNjc5LTEuNTFjLjA3Mi0uMDQ1LjEyLS4xMjcuMTItLjIxOSAwLS4xNDMtLjExNS0uMjU4LS4yNTUtLjI1OGgtLjcwNGwtLjAwNy0xMC4wMzRjMC0uMTQ1LS4xMTQtLjI2LS4yNTUtLjI2aC0xLjQ5NHYuMDAyeiIvPjwvc3ZnPg==" />
+    <g aria-hidden="true" fill="#333" text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif"
+        text-rendering="geometricPrecision" font-weight="700" font-size="110px" line-height="14px">
+        <rect id="llink" stroke="#d5d5d5" fill="url(#a)" x=".5" y=".5" width="92" height="19" rx="2" /><text
+            aria-hidden="true" x="545" y="150" fill="#fff" transform="scale(.1)" textLength="650">HackerRank</text><text
+            x="545" y="140" transform="scale(.1)" textLength="650">HackerRank</text></g>
+</svg>
